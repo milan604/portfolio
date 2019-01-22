@@ -1,0 +1,52 @@
+* {
+    max-width: 700px;
+    margin: auto;
+   
+  }
+
+  div {
+    border-radius: 5px;
+  }
+  
+
+  #title {
+    margin-left: 3%;
+  }
+  
+ 
+  .stuff {
+    display: inline-block;
+    margin-top: 6px;
+    margin-left: 55px;
+    width: 75%;
+    height: 1000px;
+    padding-right:50px;
+    padding-left:50px;
+    padding-top:30px;
+    border-style: solid;
+    background-color: rgb(217, 247, 247);
+    border-radius: 10px;
+  }
+  
+  p,
+  li {
+    font-family: 'Cormorant Garamond';
+  }
+  
+  .head {
+    font-size: 20px;
+  }
+  
+  #name {
+    font-family: Sacramento;
+    float: right;
+    margin-top: 10px;
+    margin-right: 4%;
+  }
+  
+  a {
+    color: black;
+    text-decoration: none;
+  }
+  
+ 
